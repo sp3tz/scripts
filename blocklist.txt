@@ -3,3 +3,7 @@ moneytransaction.kb4.io
 en-us.secureconnection.moneytransaction.kb4.io
 security.hobot.cc
 secured-login.net
+ingress.rapid7.com
+prod.hydra.sophos.com
+sophosxl.net
+4.sophosxl.net
